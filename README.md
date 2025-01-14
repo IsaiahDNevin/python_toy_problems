@@ -76,7 +76,7 @@
 
 
 
-###### TESTS
+# TESTS
 
 ### Unit Test for Palindrome Checker
 - This Python script contains unit tests for the palindrome() function. It tests the function for different inputs to verify if it correctly identifies palindromes and non-palindromes.
