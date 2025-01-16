@@ -102,3 +102,10 @@
 2. Temperature Conversion: Tests the logic for converting between Fahrenheit and Celsius.
 3. Main Program Execution: Ensures that the main function calls the necessary functions and produces the correct output.
 
+## Alice in Wonderland File Reader
+- This Python script reads and processes the text from the alice_in_wonderland.txt file. It demonstrates basic file handling, including reading file contents and displaying file positions.
+
+**Features**
+1. Line Reading with Position Tracking: The script reads the file line by line, printing each line and the file's position after reading that line.
+2. Full File Reading: The read_file function reads the entire file content and returns it. It handles common file errors gracefully.
+3. Error Handling: The script manages file-related exceptions, such as FileNotFoundError, providing clear messages for troubleshooting.
