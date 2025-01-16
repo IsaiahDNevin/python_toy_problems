@@ -1,4 +1,4 @@
-# im a 17 year old self taught software developer here are some of my python toy problems
+# im a 17 year old self taught software developer, here are some of my python toy problems
 
 ## Average List Calculator
 - This Python script calculates the average of a list of numbers - - provided by the user.
